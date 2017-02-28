@@ -1,3 +1,4 @@
+# source : http://stackoverflow.com/questions/38189119/simple-way-to-visualize-a-tensorflow-graph-in-jupyter
 import tensorflow as tf
 import numpy as np
 from IPython.display import clear_output, Image, display, HTML
